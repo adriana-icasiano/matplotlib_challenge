@@ -23,8 +23,8 @@ The distribtuion of male (50.4%) and female (49.6%) which implies that the study
 There is a strong positive correlation (0.84) between the weight of the mouse and the average tumor volume, meaning the heavier the mouse, the large the tumor volume.
 ![](https://github.com/adriana-icasiano/matplotlib_challenge/blob/d307db4d349830a158d3c84ddb85cf58b89ab55f/Images/Correlation%20betwen%20Weight%20and%20Average%20Tumor%20Volume.PNG)
 
-Of all the treatments studied, Capomulin and Ramicane have the most similar statistics. These two treatments have the lowest mean, 
+Of all the treatments studied, Capomulin and Ramicane have the most similar statistics. These two treatments have the significantly lower mean, median, standard error of mean, variance and standard deviation and zero outliers.  
 
-![](https://github.com/adriana-icasiano/matplotlib_challenge/blob/0a313ad7f22a4ada6535defae5955ee8e72d2458/Images/Statistics.PNG)
+![](https://github.com/adriana-icasiano/matplotlib_challenge/blob/c19dc170c1da9fece4c59ace0ad36d900d1c90b8/Images/Statistics.PNG)
 
 ![](https://github.com/adriana-icasiano/matplotlib_challenge/blob/d307db4d349830a158d3c84ddb85cf58b89ab55f/Images/Final%20Tumor%20Volume%20Box%20Plot%20by%20Drug%20Regiment.PNG)
