@@ -3,8 +3,8 @@ In this homework, students are tasked with analyzing the complete data of a phar
 
 ## Table of Contents ##
 * [Summary](https://github.com/adriana-icasiano/matplotlib_challenge#Summary)
-* [Distribution of Female and Male](https://github.com/adriana-icasiano/matplotlib-challenge#Distribution-of-Female-and-Male)
-* [Tumor Volume](https://github.com/adriana-icasiano/matplotlib-challenge#Tumor-volume)
+* [Distribution of Female and Male](https://github.com/adriana-icasiano/matplotlib_challenge#Distribution-of-Female-and-Male)
+* [Tumor Volume](https://github.com/adriana-icasiano/matplotlib_challenge#Tumor-volume)
 
 ## Summary
 A total of 249 mice were studied; however, 1 mouse (mouse ID g989) from the drug regimen Propriva had duplicated data that could not be relied on and was removed from the analysis. Of all the treatments, Capomulin and Ramicane had the highest number of datapoints.
