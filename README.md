@@ -2,9 +2,9 @@
 In this homework, students are tasked with analyzing the complete data of a pharmacentical company's most recent animal study.  In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 ## Table of Contents ##
-* [Summary](https://github.com/adriana-icasiano/pandas-challenge#Summary)
-* [Distribution of Female and Male](https://github.com/adriana-icasiano/pandas-challenge#Distribution-of-Female-and-Male)
-* [Tumor Volume](https://github.com/adriana-icasiano/pandas-challenge#Tumor-volume)
+* [Summary](https://github.com/adriana-icasiano/matplotlib-challenge#Summary)
+* [Distribution of Female and Male](https://github.com/adriana-icasiano/matplotlib-challenge#Distribution-of-Female-and-Male)
+* [Tumor Volume](https://github.com/adriana-icasiano/matplotlib-challenge#Tumor-volume)
 
 ## Summary
 A total of 249 mice were studied; however, 1 mouse (mouse ID g989) from the drug regimen Propriva had duplicated data that could not be relied on and was removed from the analysis. Of all the treatments, Capomulin and Ramicane had the highest number of datapoints.
